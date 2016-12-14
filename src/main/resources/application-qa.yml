@@ -1,0 +1,10 @@
+#Server Specifics
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-boot-test
+    
+var:
+    test: qa
